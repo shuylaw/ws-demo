@@ -10,6 +10,7 @@ Working demo: https://shuylaw-ws-demo-main-yx5bon.streamlit.app/
 - Generate more than 10 words for subtopics with more relevant keywords
 - CSV download for lists
 - https://scipython.com/blog/making-a-word-search-puzzle-in-python/
+- Try different temperatue settings
 
 ## Resources
 - [Streamlit + Langchain + OpenAI tutorial](https://www.youtube.com/watch?v=U_eV8wfMkXU)
